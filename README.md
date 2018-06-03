@@ -7,7 +7,7 @@ This is one example of how to make simple notification based on Angular 6 and No
 2. In notification-backend folder, open your terminal and run ```npm start```,
 3. In notification-frontend folder, open another terminal and run ```npm start```,
 4. Open your browser and go to ```localhost:4200/admin```. Open new window of your browser and go to ```localhost:4200/user```,
-5. Click button in ```localhost:4200/admin```, then you'll see notification alert in ```localhost:4200/user'''
+5. Click button in ```localhost:4200/admin```, then you'll see notification alert in ```localhost:4200/user```
 
 ## Before
 ![image](https://github.com/hadimaster65555/notification-example-with-angular6-and-socket/blob/master/before.jpg)
